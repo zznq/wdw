@@ -1,0 +1,21 @@
+{
+  "name": "wdw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zznq/wdw.git"
+  },
+  "keywords": [
+    "disney"
+  ],
+  "author": "Joe Buszkiewic",
+  "dependencies": {
+    "wdwjs": "^2.x",
+    "kafka-node": "^0.3.x"
+  }
+}
