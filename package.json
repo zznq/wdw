@@ -15,7 +15,9 @@
   ],
   "author": "Joe Buszkiewic",
   "dependencies": {
+    "bluebird": "3.x",
     "wdwjs": "^2.x",
-    "kafka-node": "^0.3.x"
+    "twilio": "2.x",
+    "node-yaml-config": "0.0.3"
   }
 }

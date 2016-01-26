@@ -1,0 +1,12 @@
+default:
+  services:
+    twilio:
+      accountSid: 123
+      authToken: 456
+  notifications:
+    _16767284:
+      threshold: 10
+    _16767263:
+      threshold: 10
+    _16767276:
+      threshold: 30
